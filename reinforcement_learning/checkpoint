@@ -1,0 +1,2 @@
+model_checkpoint_path: "nn_policy.ckpt"
+all_model_checkpoint_paths: "nn_policy.ckpt"
